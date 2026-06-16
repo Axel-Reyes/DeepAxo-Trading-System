@@ -27,6 +27,8 @@ Developed with a strong emphasis on **Quality Assurance** and **ISTQB** principl
 - [x] Subscription management interface featuring an internal paywall.
 - [x] Instant operational alerts integrated with the Telegram API.
 - [x] Standalone, sandboxed deployment packaged via PyInstaller (`.exe`).
-
+![Axo Labs Dashboard](axo_labs_dashboard.png)
+![Axo Labs Logs](axo_labs_logs.png)
+![Axo Labs Tests QA](test_qa.png)
 ---
 **Developed by Axel Reyes** | *Junior Quality Assurance Professional & Python Developer*
