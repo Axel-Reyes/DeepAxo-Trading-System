@@ -28,7 +28,7 @@ Como profesional orientado a **Quality Assurance** y prácticas **ISTQB**, la pl
 - [x] Alertas instantáneas integradas con la API de Telegram.
 - [x] Despliegue en entorno aislado mediante PyInstaller (`.exe`).
 
-[DeepAxo Dashboaard] (deepaxo_dashboard.png)
+![DeepAxo Dashboaard] (deepaxo_dashboard.png)
 ![DeepAxo Logs](deepaxo_logs.png)
 ![DeepAxo Tests QA](tests_qa.png)
 ---
